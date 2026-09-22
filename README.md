@@ -51,3 +51,4 @@ common pitfalls, and an interview-preparation section.
 Once comfortable with core JavaScript, continue to:
 - [TypeScript](../TypeScript/README.md) — adds static typing on top of JavaScript
 - [ReactJS](../ReactJS/README.md) — build UIs with a component-based library
+- [TechnicalArchitect](../TechnicalArchitect/README.md) — for going deeper into JS runtime internals (event loop, memory, V8) at architect level once fundamentals are solid
